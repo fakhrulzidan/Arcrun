@@ -25,4 +25,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Arcrun1"
 include(":app")
- 
+include(":arcruneo")
